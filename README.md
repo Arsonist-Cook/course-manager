@@ -25,3 +25,12 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Project Note
+In order to run fully this project, you need to startup the basic server made as a demonstration. The server source code is found inside of `shared` folder.
+
+Basically, inside that folder, you need to run:
+- `npm install`;
+- `node serve.js`.
+
+By the way... Make sur you have Node.JS installed!!! :grimacing:
